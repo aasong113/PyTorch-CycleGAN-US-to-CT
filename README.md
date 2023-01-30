@@ -1,4 +1,4 @@
-This is a CycleGAN model adapted from Aladdin Persson.
+This is a CycleGAN model adapted for US to CT image translation. 
 
 Code: 
     
